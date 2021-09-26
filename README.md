@@ -11,3 +11,4 @@ In this website, you can find:
 * To hire your desired security agent you need to click on the **Add to Squad** button.
 * Before click on the **Add to Squad** button, you need to check agent's **Age**, **Country**, form which **Force**, he belong.
 * Most importently, you should check the amount of **Salary**, the agent demand.
+* You can get your **Squad Summary** and **Total Salary** you need to pay monthly for them.
