@@ -13,3 +13,10 @@ In the project directory, you can run:
 * Markdown is really fast
 * Preety cool, right?
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
