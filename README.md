@@ -10,6 +10,4 @@ In the project directory, you can run:
 * Markdown is really fast
 * Preety cool, right?
 
-```html
-    <h1 style="color: blue;">This is blue</h1>
-```
+<h1 style="color: blue;">This is blue</h1>
